@@ -1,0 +1,1 @@
+this quick project was made to keep pc alive with mouse loop
